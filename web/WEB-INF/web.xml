@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee">
+   <description>
+     Mapbox Experiment
+   </description>
+   <display-name>Mapbox Experiment</display-name>
+<!--       <servlet>
+         <servlet-name>TriviaServlet</servlet-name>
+         <servlet-class>va.loudoun.leesburg.controller.TriviaServlet</servlet-class>
+      </servlet>
+      <servlet-mapping>
+         <servlet-name>TriviaServlet</servlet-name>
+         <url-pattern>/trivia</url-pattern>
+      </servlet-mapping> --> 
+</web-app> 

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<project name="Template Project" default="compile" basedir=".">
+<project name="Mapbox Experiment" default="compile" basedir=".">
    <property file="build.properties"/>
    <target name="init">
       <tstamp />
    </target>
    <target name="info">
-      <echo>Hello Template Project - Welcome to your new Template!</echo>
+      <echo>Mapbox Experiment Project!</echo>
    </target>
 
    <target name="deploy" depends="war">
